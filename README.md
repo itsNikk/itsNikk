@@ -2,7 +2,7 @@
 - 👀 I’m interested in Videogames, Videogames Music & Sound Design
 - 🌱 I’m currently learning C#, Unity and FMOD
 - 💞️ I’m looking to collaborate on games I guess ahah
-- 📜Currently working on my Master Thesis Project which is centered around Immersive Sound Design For VR.
+- 📜Master degree obtained (topic: Immersive Sound Design For VR).
 - 📫 How to reach me nicolo.buganza97@gmail.com
 -  IG profile: https://www.instagram.com/drumsnikk/
 
